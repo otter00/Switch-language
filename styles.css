@@ -1,0 +1,10 @@
+#input__form,.result__field {
+    margin: 0 30vw;
+}
+
+.result__field {
+    margin-top: 5vh;
+
+    font-weight: 600;
+    font-size: 20px;
+}
