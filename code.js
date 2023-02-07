@@ -1,3 +1,5 @@
+const moment = require('moment');
+
 const input_text = document.querySelector('#input__switch');
 const button = document.querySelector('#button__switch');
 

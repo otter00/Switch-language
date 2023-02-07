@@ -1,0 +1,22 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otter00/Switch-language.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otter00/Switch-language/issues"
+  },
+  "homepage": "https://github.com/otter00/Switch-language#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
